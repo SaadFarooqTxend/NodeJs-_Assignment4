@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Product 1", "price": 10, "description": "A great product", "category": "electronics" },
+    { "id": 2, "name": "Product 2", "price": 20, "description": "Another great product", "category": "clothing" }
+  ]
+  
